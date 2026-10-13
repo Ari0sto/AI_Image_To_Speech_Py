@@ -1,0 +1,28 @@
+
+# Virtual environment
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# IDE files
+.idea/
+.vscode/
+
+# Local environment
+.env
+.env.*
+
+# Hugging Face cache and models
+.cache/
+models/
+huggingface/
+
+# Generated audio files
+output/*.wav
+
+# System files
+.DS_Store
+Thumbs.db
